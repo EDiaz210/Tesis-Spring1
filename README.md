@@ -13,7 +13,7 @@ Validar la conexión con la base de datos y la estructura del sistema.
 
 Emplear React Hook Form para formularios ligeros, eficientes y fáciles de mantener.
 
-#### 🛠️ Tecnologías Utilizadas
+### 🛠️ Tecnologías Utilizadas
 React
 
 React Hook Form
@@ -24,7 +24,7 @@ Bootstrap (opcional)
 
 Node.js (backend en etapas posteriores)
 
-##### 📈 Resultados del Sprint
+### 📈 Resultados del Sprint
 Durante este primer sprint se logró:
 
 Establecer una base sólida para el desarrollo del sistema.
@@ -35,7 +35,7 @@ Confirmar la conexión exitosa con la base de datos.
 
 Asegurar una estructura coherente y escalable para futuros módulos.
 
-###### 🎯 Próximos pasos
+### 🎯 Próximos pasos
 Desarrollo del módulo de inicio de sesión.
 
 Implementación del perfil de jugador.
