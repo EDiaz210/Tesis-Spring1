@@ -44,5 +44,3 @@ Integración de funcionalidades del juego.
 
 Expansión del chatbot académico para estudiantes ESFOT.
 
-📄 Licencia
-Este proyecto está desarrollado con fines académicos. Todos los derechos reservados a sus respectivos autores.
